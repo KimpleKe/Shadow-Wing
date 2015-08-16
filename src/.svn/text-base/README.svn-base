@@ -1,0 +1,12 @@
+Getting Slick to work under Linux.
+
+1. export CLASSPATH=src:lib/slick.jar:lib/lwjgl.jar:$CLASSPATH
+   Now should be able to compile.
+2. javac src/*.java
+3. To run: java -Djava.library.path=lib Game
+
+Note that slick/lib/natives-linux.jar (from the slick zip file) is in lib.
+
+Note that CLASSPATH is for loading .class files (you can put directories or
+.jar files here).
+-Djava.library.path is for loading .so files.

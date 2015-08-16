@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/users/jke/!svn/ver/76/oosd/project2/lib
+END
+jinput-raw.dll
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/users/jke/!svn/ver/45/oosd/project2/lib/jinput-raw.dll
+END
+lwjgl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/users/jke/!svn/ver/45/oosd/project2/lib/lwjgl.jar
+END
+libjinput-osx.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/users/jke/!svn/ver/45/oosd/project2/lib/libjinput-osx.jnilib
+END
+slick.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/users/jke/!svn/ver/45/oosd/project2/lib/slick.jar
+END
+openal.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/users/jke/!svn/ver/45/oosd/project2/lib/openal.dylib
+END
+jinput-raw_64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/users/jke/!svn/ver/45/oosd/project2/lib/jinput-raw_64.dll
+END
+lwjgl64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/users/jke/!svn/ver/45/oosd/project2/lib/lwjgl64.dll
+END
+OpenAL64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/users/jke/!svn/ver/45/oosd/project2/lib/OpenAL64.dll
+END
+lwjgl.dll
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/users/jke/!svn/ver/45/oosd/project2/lib/lwjgl.dll
+END
+OpenAL32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/users/jke/!svn/ver/45/oosd/project2/lib/OpenAL32.dll
+END
+jinput-dx8_64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/users/jke/!svn/ver/45/oosd/project2/lib/jinput-dx8_64.dll
+END
+jorbis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/users/jke/!svn/ver/76/oosd/project2/lib/jorbis.jar
+END
+jinput-dx8.dll
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/users/jke/!svn/ver/45/oosd/project2/lib/jinput-dx8.dll
+END
+liblwjgl.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/users/jke/!svn/ver/45/oosd/project2/lib/liblwjgl.jnilib
+END
